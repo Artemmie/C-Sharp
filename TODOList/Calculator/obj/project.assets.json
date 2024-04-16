@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/art/C-Sharp/TODOList/C-Sharp-Projects/TodoList.csproj",
-      "projectName": "TodoList",
-      "projectPath": "/Users/art/C-Sharp/TODOList/C-Sharp-Projects/TodoList.csproj",
+      "projectUniqueName": "/Users/art/C-Sharp/TODOList/Calculator/Calculator.csproj",
+      "projectName": "Calculator",
+      "projectPath": "/Users/art/C-Sharp/TODOList/Calculator/Calculator.csproj",
       "packagesPath": "/Users/art/.nuget/packages/",
-      "outputPath": "/Users/art/C-Sharp/TODOList/C-Sharp-Projects/obj/",
+      "outputPath": "/Users/art/C-Sharp/TODOList/Calculator/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/art/.nuget/NuGet/NuGet.Config"
